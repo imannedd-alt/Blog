@@ -1,0 +1,59 @@
+/* HEADER*/
+
+
+
+
+
+
+
+
+
+
+
+/* MAIN NAVIGATION */
+
+ul.vertical-main-menu li {
+list-style-type: none;
+	/* text-align: center; */
+display: block;
+margin: 0;
+padding: 0;
+width:  200px;
+
+background-color:;
+
+}
+
+
+ul.vertical-main-menu a {
+
+ text-decoration: none;
+}
+
+ul.vertical-main-menu a:hover {
+    color: hotpink;
+}
+
+ul.vertical-main-menu a:active  {
+	
+} 
+
+
+p {
+text-align: center;
+
+
+}
+
+
+/*FOOTER*/
+
+ul.footer {
+list-style-type: none;	
+position: bottom;	
+}
+
+ul.footer a {
+	text-decoration: none;
+	font-size:12px;
+}
